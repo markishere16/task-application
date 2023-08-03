@@ -22,14 +22,16 @@ $ npm run dev
 
 ```
 
-*** Test Accounts ***
+***Test Accounts***
+```
 Account 1: 
 email: test1@example.com
 password: password
 
 Account 2;
-emIl; test2@example.com
+email; test2@example.com
 password: password
+```
 
 **Sample Screenshot**
 ![task-application](https://github.com/markishere16/task-application/assets/63138664/2d2d188c-8837-4819-919e-4910e721a12b)

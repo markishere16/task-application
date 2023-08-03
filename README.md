@@ -16,7 +16,7 @@ $ php artisan migrate:fresh --seed
 # Run Backend
 $ php artisan serve
 
-# serve with hot reload at localhost:3000
+# run frontend with hot reload
 $ npm run dev
 
 
